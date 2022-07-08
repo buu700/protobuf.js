@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.0.1](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v7.0.0...protobufjs-v7.0.1) (2022-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency glob to v8 ([#1750](https://github.com/protobufjs/protobuf.js/issues/1750)) ([8303a64](https://github.com/protobufjs/protobuf.js/commit/8303a648bc12dcea5aa8e7efa042de39011857f9))
+
 ## [7.0.0](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v6.0.0...protobufjs-v7.0.0) (2022-07-08)
 
 
